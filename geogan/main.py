@@ -13,7 +13,7 @@ if __name__ == "__main__":
     parser.add_argument('--weights_root', type=str, default="",
         help="Network weights file root")
     parser.add_argument('--application', type=str, default="mch",
-        help="Training data file file")
+        help="Application (mch or goes)")
     
     args = parser.parse_args()
     mode = args.mode
