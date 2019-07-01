@@ -8,7 +8,7 @@ We are currently discussing the release of the radar training dataset with the p
 
 ## Obtaining the trained network
 
-Get the trained weights from this release: [/releases/download/v0.1-data/mch_gan.zip]. Unzip the file, preferably into the `models` directory.
+Get the trained weights from [this release](../../releases/download/v0.1-data/mch_gan.zip). Unzip the file, preferably into the `models` directory.
 
 ## Running the code
 
@@ -16,7 +16,7 @@ For training, you'll want a machine with a GPU and around 32 GB of memory (the t
 
 You may want to work with the code interactively; in this case, just start a Python shell in the `geogan` directory.
 
-If you want the simplest way to run the code, the following two options are available. You may also want to look at them to get an idea how the training flow works.
+If you want the simplest way to run the code, the following two options are available. You may also want to look at what `main.py` does in order to get an idea of how the training flow works.
 
 ### Producing plots
 
