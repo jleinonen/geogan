@@ -4,7 +4,7 @@ This is a reference implementation of a style-based generative adversarial netwo
 
 ## Obtaining the data
 
-We are currently discussing the release of the radar training dataset with the provider. Unfortunately, running the training using this dataset will not be possible before the data is release. Information about data access will be added here once it's available.
+We are currently discussing the release of the radar training dataset with the provider. Unfortunately, running the training using this dataset will not be possible before the data is released. Information about data access will be added here once it's available.
 
 ## Obtaining the trained network
 
