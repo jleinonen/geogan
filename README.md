@@ -2,6 +2,8 @@
 
 This is a reference implementation of a style-based generative adversarial network (GAN) designed to generate geophysical fields. This code supports a paper to be submitted to the Climate Informatics 2019 meeting.
 
+You might also be interested in [this paper](https://doi.org/10.1029/2019GL082532) ([code](../../../cloudsat-gan/)) or in [my post on GANs in the atmospheric sciences](https://jleinonen.github.io/2019/06/06/gans-atmos.html).
+
 ## Obtaining the data
 
 We are currently discussing the release of the radar training dataset with the provider. Unfortunately, running the training using this dataset will not be possible before the data is released. Information about data access will be added here once it's available.
