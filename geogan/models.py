@@ -32,7 +32,7 @@ def stylegan_subblock(channels, scale_ratio=2):
 def stylegan_block(channels, scale_ratio=2, upscale=True):
     def block(x, noise, style_weights):
         if upscale:
-            x = UpSampling2D(interpolation='nearest')(x)
+            x = UpSampling2D(interpolation='bilinear')(x)
 
         x = stylegan_subblock(channels, scale_ratio=scale_ratio)(
             x, noise[0], style_weights)
