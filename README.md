@@ -6,7 +6,7 @@ You might also be interested in [this paper](https://doi.org/10.1029/2019GL08253
 
 ## Obtaining the data
 
-We are currently discussing the release of the radar training dataset with the provider. Unfortunately, running the training using this dataset will not be possible before the data is released. Information about data access will be added here once it's available.
+Download the data from https://doi.org/10.7910/DVN/ZDWWMG and follow the instructions there.
 
 ## Obtaining the trained network
 
