@@ -1,6 +1,6 @@
 # Style-based GAN for geophysical fields
 
-This is a reference implementation of a style-based generative adversarial network (GAN) designed to generate geophysical fields. This code supports a paper to be submitted to the Climate Informatics 2019 meeting.
+This is a reference implementation of a style-based generative adversarial network (GAN) designed to generate geophysical fields. This code supports a paper published in the [Proceedings of the 9th International Workshop on Climate Informatics: CI 2019](http://dx.doi.org/10.5065/y82j-f154). The paper was selected for the [Best Paper Award](https://sites.google.com/view/climateinformatics2019/accepted-submissions) at the meeting.
 
 You might also be interested in [this paper](https://doi.org/10.1029/2019GL082532) ([code](../../../cloudsat-gan/)) or in [my post on GANs in the atmospheric sciences](https://jleinonen.github.io/2019/06/06/gans-atmos.html).
 
